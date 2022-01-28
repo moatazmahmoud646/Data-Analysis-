@@ -10,9 +10,9 @@ User Type (Subscriber or Customer)
 
 Statistics Computed:
 #1 Popular times of travel (i.e., occurs most often in the start time)
-most common month
-most common day of week
-most common hour of day
+most common month.
+most common day of week.
+most common hour of day.
 
 #2 Popular stations and trip
 most common start station
